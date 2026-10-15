@@ -1,0 +1,13 @@
+{
+  "name": "zynqel-telegram-worker",
+  "version": "2.5.0",
+  "description": "ZYNQEL: сигналы funding в Telegram 24/7 (v2.4: лонги основных и шорты мемов на необычном движении funding, стоп по волатильности, 50% на первой цели)",
+  "main": "zynqel-bot.js",
+  "scripts": {
+    "start": "node zynqel-bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
