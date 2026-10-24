@@ -1,0 +1,13 @@
+{
+  "name": "zynqel-telegram-worker",
+  "version": "2.13.0",
+  "description": "ZYNQEL: сигналы в Telegram 24/7 — funding (короткие отскоки), «ТРЕНД» (пробой 20-дневного максимума) и «⚡ Активные свечи» с ранним входом и ранним шортом (на проверке), v2.13.0",
+  "main": "zynqel-bot.js",
+  "scripts": {
+    "start": "node zynqel-bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
